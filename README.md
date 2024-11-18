@@ -11,4 +11,5 @@ As the demand for effective language learning solutions continues to grow, Ced I
 # Demo:
 https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Feu-de.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-100b2457-58a5-4843-9f40-109d8bb2e38c%3A%3A57f20e55-d9fd-4072-91f4-902ec2b18606&integrationID=917ad720-f251-4db7-a539-9fe539db3d93&region=eu-de&serviceInstanceID=100b2457-58a5-4843-9f40-109d8bb2e38c
 
-#Thank you so much to Gaurav Ramakrishna, other IBM mentor, and all mentor who helped me to make this possible.
+# Thank you so much to 
+Gaurav Ramakrishna, other IBM mentor, and all mentor who helped me to make this possible.
